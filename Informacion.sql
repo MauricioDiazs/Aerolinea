@@ -1,0 +1,15 @@
+use mydb;
+describe vuelo;
+insert into vuelo values (1,150,'198','56',78,'Cali','2021-10-28','2021-10-28','Lan');
+insert into vuelo values (2,160,'18','6',78,'peru','2021-10-25','2021-10-25','viva');
+insert into vuelo values (3,170,'128','36',79,'Armenia','2021-7-28','2021-7-28','Lan');
+insert into vuelo values (4,190,'28','50',79,'Bogota','2021-7-28','2021-7-28','Lan');
+insert into vuelo values (5,130,'58','36',79,'manizales','2021-7-28','2021-7-28','Lan');
+select * from vuelo;
+describe persona;
+insert into persona value(1,'pablo','perez',28,753898,'calle 50','anme@gamail.es',20,1);
+insert into persona value(2,'pepe','lopez',27,75898,'calle 25','anme@gamail.es',22,2);
+insert into persona value(3,'pipe','diaz',26,77898,'calle 20','anme@gamail.es',21,3);
+insert into persona value(4,'andres','salazar',25,7780,'calle 10','anme@gamail.es',36,4);
+insert into persona value(5,'juan','niño',20,778011,'calle 11','anme@gamail.es',37,5);
+select * from persona;
