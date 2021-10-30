@@ -1,1 +1,3 @@
-Cambio numero dos en la carpeta qa
+
+Cambio realizado en la carpeta desarrollo, Cambio numero dos en la carpeta qa
+
